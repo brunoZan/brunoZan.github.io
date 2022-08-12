@@ -1,4 +1,5 @@
 
+//entendo porque nao está dando pra fazer oush pro github
 
 let imagemDefaut = document.querySelector("img");
 
